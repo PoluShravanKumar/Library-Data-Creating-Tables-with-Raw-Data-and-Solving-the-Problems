@@ -1,5 +1,4 @@
 # Library-Data-Creating-Tables-with-Raw-Data-and-Solving-the-Problems
-
 1. Database Creation and Table Definitions
 Your table creation statements are almost correct but have minor issues that need addressing:
 2. Table Naming Conventions:
