@@ -1,6 +1,7 @@
 # Library-Data-Creating-Tables-with-Raw-Data-and-Solving-the-Problems
-1. Database Creation and Table Definitions
-Your table creation statements are almost correct but have minor issues that need addressing:
+
+1. Database Creation and Table Definitions.
+ Your table creation statements are almost correct but have minor issues that need addressing:
 2. Table Naming Conventions:
 - It's common practice to use lowercase letters and underscores to separate words in table names, e.g., publisher, borrower, library_branch.
 3. Data Types and Constraints:
